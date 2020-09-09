@@ -1,6 +1,6 @@
 import socket
  
-HOST,PORT = '127.0.0.1', 6969
+HOST,PORT = '127.3.2.1', 6969
  
 my_socket = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 my_socket.setsockopt(socket.SOL_SOCKET,socket.SO_REUSEADDR,1)
