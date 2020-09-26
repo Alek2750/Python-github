@@ -1,5 +1,6 @@
 
 # A Dictionary is a collection which is unordered, changeable and indexed. No duplicate members.
+# first is key and then value
 
 # Create dict
 person = {
@@ -37,6 +38,15 @@ person.clear()
 
 # Get length
 print(len(person2))
+
+# change the value
+car =	{
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+car["year"] = 2020
+
 
 # List of dict
 people = [

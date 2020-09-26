@@ -1,4 +1,4 @@
-#Which number is biggest
+# Which number is biggest
 a = 5
 b = 9
 c = -2
@@ -10,4 +10,4 @@ elif (b >= a) and (b >= c):
 else:
    biggest = c
 
-print("The biggest number is", biggest)
+print("The biggest number is ", biggest)

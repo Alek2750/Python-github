@@ -15,6 +15,7 @@ mylist = [2,1,5,6,7,54,5]
 
 mysetlist = set(mylist)
 
+print(mysetlist)
 print(len(mysetlist))
 
 #string to tuple list
@@ -35,3 +36,11 @@ if len(tup1) == len(tup2):
         res = dict(zip(tup1, tup2))
 
 print (res)
+
+mydict = {
+    "ales0435@stud.kea.dk": 46,
+    "coa@stud.kea.dk": 32
+}
+
+print(mydict["ales0435@stud.kea.dk"])
+print(type(mydict))
