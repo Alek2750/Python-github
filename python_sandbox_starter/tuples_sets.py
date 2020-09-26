@@ -24,6 +24,11 @@ del fruits2
 # Get length
 print(len(fruits))
 
+# join() with tuples
+mynumb = ("192","168","0","1")
+s = "."
+print(s.join(mynumb))
+
 
 # A Set is a collection which is unordered and unindexed. No duplicate members.
 
@@ -56,6 +61,11 @@ fruits_set.clear()
 del fruits_set
 
 #print(fruits_set)
+
+# join() with set
+mynumb1 = {"dany","alex","alek","charlie"}
+s = "->"
+print(s.join(mynumb1))
 
 """
 Method	Description

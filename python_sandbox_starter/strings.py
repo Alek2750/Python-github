@@ -69,10 +69,17 @@ print(s.isalpha())
 # Is all numeric
 print(s.isnumeric())
 
+# multiply string
+mystr3 = "Give me lots of strings " * 10
+print(mystr3)
+
 # placeholder for the parameter
 age = 36
 txt = "My name is John, and I am {}"
 print(txt.format(age))
+
+mystr1 = "Hello"
+print("#".join(mystr1))
 
 """
 Method	Description

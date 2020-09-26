@@ -46,6 +46,11 @@ print(numbers[-1])
 listfor = [i +1 for i in range(10)]
 print(listfor)
 
+# join() with lists
+mynumb = ["192","168","0","1"]
+s = "."
+print(s.join(mynumb))
+
 """
 append()	Adds an element at the end of the list
 clear()	Removes all the elements from the list
