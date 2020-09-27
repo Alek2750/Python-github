@@ -71,17 +71,17 @@ def answer16(myvar):
 def answer27(myvar):
 	return "Network"
 
-gamedata27 = "Network"
+#gamedata27 = "Network"
 
 def answer28(myvar):
 	return 'a4:67:06:8d:83:a1'
 
-gamedata28 = "a4:67:06:8d:83:a1"
+#gamedata28 = "a4:67:06:8d:83:a1"
 
 def answer29(myvar):
 	return "39"
 
-gamedata29 = "Len=39"
+#gamedata29 = "Len=39"
 
 def answer30(myvar):
 	return 3775708311
