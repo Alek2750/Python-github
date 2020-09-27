@@ -42,7 +42,7 @@ print(fruits)
 # Get the last value using negative indexing
 print(numbers[-1])
 
-# use loop to make a list go from 1-10
+# use loop to make a list go from 1-10. i for i in range(10) to go from
 listfor = [i +1 for i in range(10)]
 print(listfor)
 
