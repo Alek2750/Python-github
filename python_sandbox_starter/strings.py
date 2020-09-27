@@ -35,7 +35,7 @@ print(len(s))
 # returns character having highest ASCII value
 print(max(s))
 
-# 	returns character having lowest ASCII value
+# returns character having lowest ASCII value
 print(min(s))
 
 # Replace
