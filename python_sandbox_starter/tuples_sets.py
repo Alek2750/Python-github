@@ -29,6 +29,17 @@ mynumb = ("192","168","0","1")
 s = "."
 print(s.join(mynumb))
 
+# join 2 tuples
+tup1 = ("5","10","15","20")
+tup2 = (1,2,3,4,8,7)
+tup3 = tup1 + tup2
+print(tup3)
+
+"""
+Method	Description
+count()	Returns the number of times a specified value occurs in a tuple
+index()	Searches the tuple for a specified value and returns the position of where it was found
+"""
 
 # A Set is a collection which is unordered and unindexed. No duplicate members.
 
